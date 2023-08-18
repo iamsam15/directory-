@@ -288,7 +288,7 @@ void exitfun(){
 	printf("\xDB SAGAR DHAKAL.");
 }
 void password(void){
-	char passwords[20]={"RanaJi"};
+	char passwords[20]={"password"};
 	gotoxy(22,2);
 	int j;
 	int z;
